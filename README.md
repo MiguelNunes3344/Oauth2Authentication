@@ -27,6 +27,8 @@ bash
 
 git clone https://github.com/MiguelNunes3344/Oauth2Authentication.git
 
+## Uso
+
 Configure as informações de conexão com o banco de dados no arquivo application.properties ou application.yml.
 
 Execute o servidor de autenticação.
